@@ -5,6 +5,9 @@
 
 This page has the objective to show some of my developer works in this latest years.
 
+Imagem Teste
+
+![image](/teste0.jpg)
 
 You can use the [editor on GitHub](https://github.com/ivanksabino/DevPage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
