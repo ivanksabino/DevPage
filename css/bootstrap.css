@@ -10719,6 +10719,10 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+  
+}
+.topHeaderBar{
+  width: 300px;
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
