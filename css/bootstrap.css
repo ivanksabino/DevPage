@@ -10729,6 +10729,7 @@ margin-bottom: -0.5rem;
 }
 .topHeaderBar{
   height: 300px;
+  color:var(--bs-light)
   background-color: var(--bs-gray);
   padding: 50px;
 }
