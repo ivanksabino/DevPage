@@ -6073,7 +6073,8 @@ margin-bottom: -0.5rem;
 }
 
 .fixed-top {
-  position: fixed;
+  float: top;
+  /* position: fixed; */
   top: 0;
   right: 0;
   left: 0;
