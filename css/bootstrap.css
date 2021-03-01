@@ -10726,9 +10726,9 @@ textarea.form-control-lg {
   text:var(--bs-light)
 }
 .topHeaderBar{
-  height: 500px;
+  height: 300px;
   background-color: var(--bs-gray);
-  padding: 40px;
+  padding: 50px;
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
