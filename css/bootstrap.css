@@ -10721,8 +10721,10 @@ textarea.form-control-lg {
   }
   
 }
+  
 .topHeaderBar{
   width: 300px;
+  background-color: var(--bs-gray);
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
