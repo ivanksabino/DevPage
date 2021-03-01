@@ -3916,11 +3916,13 @@ textarea.form-control-lg {
   justify-content: space-between;
 }
 .navbar-brand {
+  border: var(--bs-table-active-color);
+  background-color: whitesmoke;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
   font-size: 1.25rem;
-  text-decoration: none;
+  color: var(--bs-table-active-color);
   white-space: nowrap;
 }
 .navbar-nav {
@@ -4292,11 +4294,11 @@ textarea.form-control-lg {
 
 .card-header-tabs {
   margin-right: -0.5rem;
-  margin-bottom: -0.5rem;
   margin-left: -0.5rem;
   border-bottom: 0;
 }
 
+margin-bottom: -0.5rem;
 .card-header-pills {
   margin-right: -0.5rem;
   margin-left: -0.5rem;
@@ -10723,7 +10725,7 @@ textarea.form-control-lg {
 }
   
 .textHeader{
-  text:var(--bs-light)
+  color:var(--bs-light)
 }
 .topHeaderBar{
   height: 300px;
