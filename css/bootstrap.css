@@ -10745,6 +10745,9 @@ margin-bottom: -0.5rem;
   padding: 50px;
 }
 .textHeader{
+  color: whitesmoke;
+}
+.textTitleBody{
   color: black;
   text-align: center
 }
