@@ -10746,9 +10746,12 @@ margin-bottom: -0.5rem;
 }
 .textHeader{
   color: whitesmoke;
+  text-align: left;
 }
 .textTitleBody{
   color: black;
+  background-color: var(--bs-gray);
+
   text-align: center
 }
 
