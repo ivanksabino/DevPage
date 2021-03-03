@@ -10745,13 +10745,13 @@ margin-bottom: -0.5rem;
   padding: 50px;
 }
 .textHeader{
-  color: whitesmoke;
-  text-align: left;
+  color: var(--bs-light);
 }
 .textTitleBody{
   color: black;
-  background-color: var(--bs-gray);
-
+  background-color: var(--bs-light);
+  padding: 50px;
+  height: 1000px;
   text-align: center
 }
 
