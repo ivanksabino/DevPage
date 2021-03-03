@@ -10744,5 +10744,9 @@ margin-bottom: -0.5rem;
   background-color: var(--bs-gray);
   padding: 50px;
 }
+.textHeader{
+  color: black;
+  text-align: center
+}
 
 /*# sourceMappingURL=bootstrap.css.map */
