@@ -10739,9 +10739,9 @@ margin-bottom: -0.5rem;
   color:var(--bs-light)
 }
 .topHeaderBar{
-  height: 200px;
+  height: 300px;
   color:var(--bs-light);
-  background-color: var(--bs-gray);
+  background-color: black;
   padding: 50px;
 }
 .textHeader{
@@ -10754,5 +10754,31 @@ margin-bottom: -0.5rem;
   height: 1000px;
   text-align: center
 }
-
+.centerImg {
+  margin: auto;
+  display: block;
+  width: 33%;
+  padding: 20px;
+}
+.centerTextImg {
+  margin: auto;
+  display: block;
+  width: 100%;
+  padding: 20px;
+}
+.titleCards {
+  color: var(--bs-dark);
+  padding: 20px;
+  text-align: center;
+}
+.textCards {
+  color: var(--bs-dark);
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: justify;
+  text-justify: inter-word;
+  align-self: center;
+}
 /*# sourceMappingURL=bootstrap.css.map */
